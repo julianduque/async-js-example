@@ -1,0 +1,19 @@
+{
+  "name": "async-js",
+  "version": "1.0.0",
+  "description": "Async JS Demos",
+  "author": "Julian Duque <julianduquej@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "after": "^0.8.1",
+    "async": "^2.0.0-rc.3",
+    "co": "^4.6.0",
+    "level-promisify": "^2.0.1",
+    "leveldown": "^1.4.6",
+    "levelup": "^1.3.1",
+    "micro": "^2.1.0",
+    "micro-core": "^0.1.0",
+    "request": "^2.72.0",
+    "request-promise": "^3.0.0"
+  }
+}
