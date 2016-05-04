@@ -10,5 +10,5 @@ Evolution of different async approaches from pure Callback Hell ([server.js](htt
 * [server-promise.js](https://github.com/julianduque/async-js-example/blob/master/server-promise.js) - native promise approach, wrap async functions with `new Promise`
 * [server-promisify.js](https://github.com/julianduque/async-js-example/blob/master/server-promisify.js) - native promise approach, use `promisify` modules to implement Promise based APIs
 * [server-co.js](https://github.com/julianduque/async-js-example/blob/master/server-co.js) - native promise approach with `co` and generators
-* [server-micro.js](https://github.com/julianduque/async-js-example/blob/master/server-co.js) - async/await with `micro` framework
+* [server-micro.js](https://github.com/julianduque/async-js-example/blob/master/server-micro.js) - async/await with `micro` framework
 
